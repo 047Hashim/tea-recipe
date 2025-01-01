@@ -1,7 +1,6 @@
 Welcome! This web project showcases various tea recipes, highlighting HTML, CSS, responsive web design, and navigation between pages.
 
 Features:
-
 1: Multiple Pages: Includes a main page and subpages for specific tea recipes.
 
 2: Navigation: Seamless navigation between pages, ensuring a user-friendly experience.
