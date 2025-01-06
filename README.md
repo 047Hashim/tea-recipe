@@ -8,7 +8,7 @@ View the live project [here](https://047hashim.github.io/tea-recipe/)
 
 Welcome! This web project showcases various tea recipes, highlighting HTML, CSS, responsive web design, and navigation between pages.
 
-### Features:
+#### Features:
 
 1: Multiple Pages: Includes a main page and subpages for specific tea recipes.
 
