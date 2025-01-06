@@ -1,5 +1,4 @@
 ## Live Demo
-
 [Click here to view the live version of this project](https://047hashim.github.io/tea-recipe/)
 
 Welcome! This web project showcases various tea recipes, highlighting HTML, CSS, responsive web design, and navigation between pages.
