@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-View the live project [here](https://047hashim.github.io/tea-recipe/)
+View the live project [here](https://047hashim.github.io/tea-recipes/)
 
 ## About this project
 
